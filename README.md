@@ -18,3 +18,4 @@ Dự án tập trung vào việc huấn luyện và tinh chỉnh mô hình ngôn
 - data_collection.ipynb # Code thu thập dữ liệu
 - demo.py # File chạy demo
 - main.py # Các kỹ thuật nhóm đã sử dụng
+- slide.pdf # Slide thuyết trình của nhóm
